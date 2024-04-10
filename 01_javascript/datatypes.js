@@ -20,3 +20,4 @@ let isLoogedIn=false
 console.log(typeof "Ankit"); // string
 console.log(typeof undefined); // undefined
 console.log(typeof null) // object
+
